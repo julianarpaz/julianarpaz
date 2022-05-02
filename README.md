@@ -1,4 +1,4 @@
-<img align="right" width="390" height="390" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+<img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
 
 <h1>Seja bem-vindo(a)!</h1>
 
