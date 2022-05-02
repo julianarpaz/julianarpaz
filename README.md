@@ -15,6 +15,7 @@ Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
         <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
         <td><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></td>
         <td><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></td>
     </tr>
 </table>
 
@@ -24,3 +25,4 @@ Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/juliana-paz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:julianarpaz@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=link_do_seu_perfil_do_twitter)](https://twitter.com/jubinhacodes)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link_do_seu_perfil_no_instagram)](https://www.instagram.com/julianarpaz/)
