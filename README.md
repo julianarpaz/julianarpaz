@@ -4,11 +4,14 @@
 
 <h2>Olá, eu sou Juliana! </h2>
 
-Estudante da Generation Brasil (bootcamp java fullstack) e engenheira química formada pela UFPE.
-
+Recifense, rubro negra e engenheira química formada pela UFPE.
 Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
+Atualmente me aventurando no universo de desenvolvimento de software.
+Estudante da Generation Brasil no bootcamp java fullstack.
+
 
 <h2>Principais Interesses</h2>
+
 <table>
     <tr>
         <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
