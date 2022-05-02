@@ -1,5 +1,4 @@
 <img align="right" width="400" height="400" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
-
 <h1>Seja bem-vindo(a)!</h1>
 
 <h2>Olá, eu sou Juliana! </h2>
@@ -24,4 +23,4 @@ Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/julianarpaz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/juliana-paz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:julianarpaz@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://twitter.com/jubinhacodes)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=link_do_seu_perfil_do_twitter)](https://twitter.com/jubinhacodes)
