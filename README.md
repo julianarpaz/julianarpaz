@@ -1,4 +1,5 @@
 <img align="right" width="400" height="400" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+
 <h1>Seja bem-vindo(a)!</h1>
 
 <h2>Olá, eu sou Juliana! </h2>
@@ -6,9 +7,6 @@
 Estudante da Generation Brasil (bootcamp java fullstack) e engenheira química formada pela UFPE.
 
 Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
-
-
-
 
 <h2>Principais Interesses</h2>
 
