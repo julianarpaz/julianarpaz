@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+<img align="right" width="300" height="300" src="https://github.com/julianarpaz/julianarpaz/blob/main/code%20(1).svg">
 
 <h1>Seja bem-vindo(a)!</h1>
 
