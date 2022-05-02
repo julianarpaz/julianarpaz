@@ -8,6 +8,8 @@ Estudante da Generation Brasil (bootcamp java fullstack) e engenheira química f
 Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
 
 
+
+
 <h2>Principais Interesses</h2>
 
 <table>
