@@ -1,7 +1,5 @@
 <img align="right" width="300" height="300" src="https://github.com/julianarpaz/julianarpaz/blob/main/code%20(1).svg">
 
-<h1>Seja bem-vindo(a)!</h1>
-
 <h2>Olá, eu sou Juliana! </h2>
 
 Recifense, rubro negra e engenheira química formada pela UFPE.
@@ -15,6 +13,7 @@ Estudante da Generation Brasil no bootcamp java fullstack.
 
 <table>
     <tr>
+        <td><img alt="Clojure" src="https://img.shields.io/badge/clojure-236DB33F?style=for-the-badge&logo=clojure&logoColor=white"/></td>
         <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
         <td><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></td>
         <td><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></td>
