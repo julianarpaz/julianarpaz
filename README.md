@@ -6,7 +6,7 @@ Recifense, rubro negra e engenheira química formada pela UFPE.
 Aficionada por séries, filmes e games. Geek com orgulho e fã do Batman.
 
 Atualmente me aventurando no universo de desenvolvimento de software.
-Estudante da Generation Brasil no bootcamp java fullstack.
+Estudante de Análise e Desenvolvimento de Sistemas do IFPE.
 
 
 <h2>Principais Interesses</h2>
