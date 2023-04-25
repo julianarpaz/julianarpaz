@@ -10,7 +10,6 @@ Estudante de Análise e Desenvolvimento de Sistemas do IFPE.
 
 
 <h2>Principais Interesses</h2>
-
 <table>
     <tr>
         <td><img alt="Clojure" src="https://img.shields.io/badge/clojure-236DB33F?style=for-the-badge&logo=clojure&logoColor=white"/></td>
